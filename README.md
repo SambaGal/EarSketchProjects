@@ -1,7 +1,7 @@
 # EarSketchProjects
 
 [EarSketch](https://earsketch.gatech.edu/earsketch2/)
-Put the code into the skript editor.
+Put the code into the script editor.
  
 Hit Run to load into Daw
 
